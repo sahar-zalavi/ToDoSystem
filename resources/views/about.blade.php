@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:title>
-        About Chirper
+        About 
        
     </x-slot:title>
 
